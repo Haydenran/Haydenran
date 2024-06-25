@@ -2,9 +2,8 @@
 - 👀 I’m interested in pop culture
 - 🌱 I’m currently learning java code
 - 💞️ I’m looking to collaborate on jett
-- 📫 How to reach me ...
 - 😄 Pronouns: indo and english
-- ⚡ Fun fact: Fun fake
+- ⚡ Fun fact: something
 
 <!---
 Haydenran/Haydenran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
